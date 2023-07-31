@@ -10,17 +10,17 @@
 <br><br>
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="30">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40">&nbsp;
 </div>
