@@ -18,7 +18,7 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" width="40">&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40">&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">&nbsp;
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40">&nbsp;
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40">&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="40">&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sdl/sdl-original.svg" width="40">&nbsp;
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40">&nbsp;
